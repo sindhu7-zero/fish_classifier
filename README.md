@@ -48,8 +48,8 @@ The final model is deployed using **Streamlit** for real-time predictions.
 - **Loss Function**: Categorical Crossentropy  
 - **Optimizer**: Adam  
 - **Metrics**: Accuracy  
-- **Epochs**: [Specify number]  
-- **Batch Size**: [Specify number]  
+- **Epochs**:5 
+- **Batch Size**: 32
 
 ---
 
